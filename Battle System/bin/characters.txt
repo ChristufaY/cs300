@@ -1,0 +1,6 @@
+Chrono 20 8 5 3 5
+Lucca 16 6 7 4 6
+Marle 12 3 4 7 8
+Blue_Imp 10 7 4 4 2 AGGRESSIVE
+Blue_Imp 10 7 4 4 2 PASSIVE
+Roundillo_Rider 20 4 6 5 7 STRATEGIC

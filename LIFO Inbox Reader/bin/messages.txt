@@ -1,0 +1,10 @@
+Hello:We appreciate you. Take care and stay safe.
+P01 Feedback:This is the feedback for your p01 COVID Tracker submission
+Lecture:Do we have lecture today?
+Greeting:Good morning and have a great start of your day!
+P02 Feedback:This is the feedback for your p02 Wisconsin Prairie submission
+Reminder:Weekly quizzes are released on Mondays at 5:00pm and due on Tuesdays at 4:59pm
+Hints:Practive makes perfect.
+COVID vaccine:Horray! Covid-19 vaccine from Pfizer and BioNTech showed a strong effectiveness (90%).
+Positive Waves:Smile, be positive, and keep going on!
+Deadline Approaching:The deadline to complete p08 is on Wed 11/18
